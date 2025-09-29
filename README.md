@@ -28,7 +28,7 @@
 3. Восстановите базу из файла Database/*.dt.
 
 ## 📎 Полезные ссылки
-- [ER-диаграмма](./ER-diagram/Стажировка.drawio.pdf)  
+- [ER-диаграмма](https://github.com/KsyushaChaikovskaia/1C_yacht_project/blob/main/YachtManagment/ER_diagram/ER_diagram.jpg)  
 - [Описание задания](./Documentation/Конрольная%20работа%20по%20модулю%2011.pdf)
 
 ---
