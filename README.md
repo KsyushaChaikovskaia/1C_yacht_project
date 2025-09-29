@@ -29,7 +29,7 @@
 
 ## 📎 Полезные ссылки
 - [ER-диаграмма](https://github.com/KsyushaChaikovskaia/1C_yacht_project/blob/main/YachtManagment/ER_diagram/ER_diagram.jpg)  
-- [Описание задания](./Documentation/Конрольная%20работа%20по%20модулю%2011.pdf)
+- [Описание задания](https://github.com/KsyushaChaikovskaia/1C_yacht_project/blob/main/YachtManagment/Documentation/Internship_assignment.pdf)
 
 ---
 
